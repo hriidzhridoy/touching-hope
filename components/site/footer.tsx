@@ -37,6 +37,8 @@ export function Footer() {
           <ul className="mt-4 space-y-2 text-sm">
             <li><a href="#vision" className="hover:text-white">Our Vision</a></li>
             <li><a href="#programs" className="hover:text-white">Programs</a></li>
+            <li><a href="#donation-stories" className="hover:text-white">Donation Stories</a></li>
+            <li><a href="#videos" className="hover:text-white">Videos</a></li>
             <li><a href="#get-involved" className="hover:text-white">Get Involved</a></li>
           </ul>
         </div>
