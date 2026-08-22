@@ -37,8 +37,6 @@ export function Footer() {
           <ul className="mt-4 space-y-2 text-sm">
             <li><a href="#vision" className="hover:text-white">Our Vision</a></li>
             <li><a href="#programs" className="hover:text-white">Programs</a></li>
-            <li><a href="#community" className="hover:text-white">Who We Serve</a></li>
-            <li><a href="#el-pescadero" className="hover:text-white">El Pescadero</a></li>
             <li><a href="#get-involved" className="hover:text-white">Get Involved</a></li>
           </ul>
         </div>
