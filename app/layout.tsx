@@ -18,6 +18,11 @@ export const metadata: Metadata = {
   title: "Touching Hope | Bringing Hope & Healing to Los Cabos, Mexico",
   description:
     "Touching Hope invests in the lives of women, children, and families in Los Cabos, Mexico through education, vocational training, work opportunities, nutrition, and empowerment — helping them become self-reliant, productive members of their community.",
+  icons: {
+    icon: "/images/logo-transparent.png",
+    shortcut: "/images/logo-transparent.png",
+    apple: "/images/logo-transparent.png",
+  },
   keywords: [
     "Touching Hope",
     "Los Cabos nonprofit",
