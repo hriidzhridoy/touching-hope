@@ -8,7 +8,7 @@ export function Footer() {
         <div>
           <div className="flex items-center gap-3">
             <Image
-              src="/images/logo.png"
+              src="/images/logo-transparent.png"
               alt="Touching Hope logo"
               width={40}
               height={40}

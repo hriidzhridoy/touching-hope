@@ -36,7 +36,7 @@ export function Navbar() {
       <nav className="container flex h-20 items-center justify-between">
         <a href="#top" className="flex items-center gap-3">
           <Image
-            src="/images/logo.png"
+            src="/images/logo-transparent.png"
             alt="Touching Hope logo"
             width={44}
             height={44}
