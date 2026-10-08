@@ -7,6 +7,7 @@ import { Videos } from "@/components/site/videos";
 import { GetInvolved } from "@/components/site/get-involved";
 import { Newsletter } from "@/components/site/newsletter";
 import { Footer } from "@/components/site/footer";
+import { DonateDialog } from "@/components/site/donate-dialog";
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
       <GetInvolved />
       <Newsletter />
       <Footer />
+      <DonateDialog />
     </main>
   );
 }

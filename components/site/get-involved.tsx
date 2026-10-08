@@ -1,6 +1,7 @@
 import { HandCoins, HandHeart, Handshake } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
+import { DonateButton } from "@/components/site/donate-button";
 import {
   Card,
   CardContent,
@@ -59,9 +60,15 @@ export function GetInvolved() {
                 <p className="flex-1 text-sm leading-relaxed text-leaf-100/85">
                   {way.copy}
                 </p>
-                <Button asChild variant="onDark" className="mt-6 w-fit">
-                  <a href="#newsletter">{way.cta}</a>
-                </Button>
+                {way.title === "Donate" ? (
+                  <DonateButton variant="onDark" className="mt-6 w-fit">
+                    {way.cta}
+                  </DonateButton>
+                ) : (
+                  <Button asChild variant="onDark" className="mt-6 w-fit">
+                    <a href="#newsletter">{way.cta}</a>
+                  </Button>
+                )}
               </CardContent>
             </Card>
           ))}

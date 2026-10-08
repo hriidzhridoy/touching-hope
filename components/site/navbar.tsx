@@ -6,6 +6,7 @@ import { Menu, X } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
+import { openDonate } from "@/lib/donate";
 
 const LINKS = [
   { href: "#vision", label: "Our Vision" },
@@ -69,8 +70,8 @@ export function Navbar() {
         </ul>
 
         <div className="hidden lg:block">
-          <Button asChild size="default">
-            <a href="#get-involved">Donate</a>
+          <Button size="default" onClick={openDonate}>
+            Donate
           </Button>
         </div>
 
@@ -99,10 +100,14 @@ export function Navbar() {
               </li>
             ))}
             <li className="pt-2">
-              <Button asChild className="w-full">
-                <a href="#get-involved" onClick={() => setOpen(false)}>
-                  Donate
-                </a>
+              <Button
+                className="w-full"
+                onClick={() => {
+                  setOpen(false);
+                  openDonate();
+                }}
+              >
+                Donate
               </Button>
             </li>
           </ul>
