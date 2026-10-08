@@ -13,7 +13,7 @@ const PHOTO_CARDS = [
   },
   {
     title: "A Shared Mission",
-    copy: "Touching Hope connects donors, volunteers, and partners with work that helps people move toward stability.",
+    copy: "Touching Hope Cares connects donors, volunteers, and partners with work that helps people move toward stability.",
     image: "/images/logo-transparent.png",
   },
 ];

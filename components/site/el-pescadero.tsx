@@ -17,14 +17,14 @@ export function ElPescadero() {
               El Pescadero, BCS
             </p>
             <p className="mt-6 text-lg leading-relaxed text-ink-700">
-              Our next Touching Hope office is on its way to El Pescadero —
+              Our next Touching Hope Cares office is on its way to El Pescadero —
               a farming and fishing community just up the coast from Los
               Cabos. The new office will sit inside Flora de Pescadero, a
               growing residential community, putting our programs even
               closer to the families who need them.
             </p>
             <p className="mt-4 rounded-xl border-l-4 border-sun-500 bg-sun-50 px-4 py-3 text-sm italic text-ink-700">
-              &ldquo;La oficina Touching Hope estará ubicada dentro de la
+              &ldquo;La oficina Touching Hope Cares estará ubicada dentro de la
               lujosa comunidad de hogares Flora de Pescadero que llegará a
               El Pescadero en 2025.&rdquo;
             </p>

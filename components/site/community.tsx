@@ -10,7 +10,7 @@ export function Community() {
           <div className="absolute -inset-4 -z-10 rotate-2 rounded-[1.75rem] bg-sun-200/60" />
           <img
             src="/images/hero-postcard.png"
-            alt="Touching Hope team members and children in Los Cabos, Mexico"
+            alt="Touching Hope Cares team members and children in Los Cabos, Mexico"
             className="w-full -rotate-2 rounded-[1.5rem] border-4 border-white shadow-xl transition-transform duration-500 hover:rotate-0"
           />
         </div>

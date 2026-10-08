@@ -15,16 +15,16 @@ const caveat = Caveat({
 });
 
 export const metadata: Metadata = {
-  title: "Touching Hope | Bringing Hope & Healing to Los Cabos, Mexico",
+  title: "Touching Hope Cares | Bringing Hope & Healing to Los Cabos, Mexico",
   description:
-    "Touching Hope invests in the lives of women, children, and families in Los Cabos, Mexico through education, vocational training, work opportunities, nutrition, and empowerment — helping them become self-reliant, productive members of their community.",
+    "Touching Hope Cares invests in the lives of women, children, and families in Los Cabos, Mexico through education, vocational training, work opportunities, nutrition, and empowerment — helping them become self-reliant, productive members of their community.",
   icons: {
     icon: "/images/logo-transparent.png",
     shortcut: "/images/logo-transparent.png",
     apple: "/images/logo-transparent.png",
   },
   keywords: [
-    "Touching Hope",
+    "Touching Hope Cares",
     "Los Cabos nonprofit",
     "El Pescadero",
     "Baja California Sur charity",
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     "women and children Mexico",
   ],
   openGraph: {
-    title: "Touching Hope | Bringing Hope & Healing to Los Cabos, Mexico",
+    title: "Touching Hope Cares | Bringing Hope & Healing to Los Cabos, Mexico",
     description:
       "Investing in education, vocational training, work opportunities, nutrition, and empowerment for women and children in Los Cabos, Mexico.",
     type: "website",

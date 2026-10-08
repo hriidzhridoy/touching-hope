@@ -9,7 +9,7 @@ export function Footer() {
           <div className="flex items-center gap-3">
             <Image
               src="/images/logo-transparent.png"
-              alt="Touching Hope logo"
+              alt="Touching Hope Cares logo"
               width={40}
               height={40}
               className="h-10 w-10 object-contain"
@@ -19,7 +19,7 @@ export function Footer() {
                 Touching
               </span>
               <span className="-mt-1 font-script text-xl text-leaf-100">
-                Hope
+                Hope Cares
               </span>
             </span>
           </div>
@@ -54,20 +54,20 @@ export function Footer() {
             </li>
             <li className="flex items-start gap-2">
               <Mail className="mt-0.5 h-4 w-4 shrink-0 text-leaf-100" />
-              hello@touchinghope.org
+              hello@touchinghopecares.com
             </li>
           </ul>
           <div className="mt-5 flex gap-3">
             <a
               href="#"
-              aria-label="Touching Hope on Facebook"
+              aria-label="Touching Hope Cares on Facebook"
               className="flex h-9 w-9 items-center justify-center rounded-full bg-white/10 transition-colors hover:bg-sun-500 hover:text-leaf-950"
             >
               <Facebook className="h-4 w-4" />
             </a>
             <a
               href="#"
-              aria-label="Touching Hope on Instagram"
+              aria-label="Touching Hope Cares on Instagram"
               className="flex h-9 w-9 items-center justify-center rounded-full bg-white/10 transition-colors hover:bg-sun-500 hover:text-leaf-950"
             >
               <Instagram className="h-4 w-4" />
@@ -77,7 +77,7 @@ export function Footer() {
       </div>
 
       <div className="container mt-12 border-t border-white/10 pt-6 text-xs text-sand-50/50">
-        © {new Date().getFullYear()} Touching Hope. All rights reserved.
+        © {new Date().getFullYear()} Touching Hope Cares. All rights reserved.
       </div>
     </footer>
   );

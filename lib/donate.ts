@@ -1,5 +1,5 @@
 export const ZELLE_EMAIL = "hello@touchinghopecares.com";
-export const ZELLE_RECIPIENT = "Touching Hope";
+export const ZELLE_RECIPIENT = "Touching Hope Cares";
 export const DONATE_EVENT = "open-donate";
 export const DONATION_AMOUNTS = [25, 50, 100, 250];
 

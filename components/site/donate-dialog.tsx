@@ -122,7 +122,7 @@ export function DonateDialog() {
               How much would you like to give?
             </h2>
             <p className="mt-2 text-sm leading-relaxed">
-              100% goes to Touching Hope through Zelle &mdash; free and fast
+              100% goes to Touching Hope Cares through Zelle &mdash; free and fast
               from your US bank account.
             </p>
 

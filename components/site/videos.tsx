@@ -6,7 +6,7 @@ export function Videos() {
           <div>
             <span className="section-eyebrow text-sun-600">Videos</span>
             <h2 className="mt-4 text-balance font-sans text-3xl font-extrabold text-ink-900 sm:text-4xl">
-              Touching Hope Founder receives award for helping families in need.
+              Touching Hope Cares Founder receives award for helping families in need.
             </h2>
             <p className="mt-5 text-base leading-relaxed text-ink-700/90">
               Watch the story behind the work and the recognition for serving
@@ -19,7 +19,7 @@ export function Videos() {
               <iframe
                 className="h-full w-full"
                 src="https://www.youtube.com/embed/GzwOJWw1Ieo"
-                title="Touching Hope Founder receives award for helping families in need"
+                title="Touching Hope Cares Founder receives award for helping families in need"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowFullScreen
               />

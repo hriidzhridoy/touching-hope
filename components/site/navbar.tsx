@@ -40,7 +40,7 @@ export function Navbar() {
         <a href="#top" className="flex items-center gap-3">
           <Image
             src="/images/logo-transparent.png"
-            alt="Touching Hope logo"
+            alt="Touching Hope Cares logo"
             width={44}
             height={44}
             className="h-11 w-11 object-contain"
@@ -51,7 +51,7 @@ export function Navbar() {
               Touching
             </span>
             <span className="-mt-1 font-script text-2xl text-leaf-800">
-              Hope
+              Hope Cares
             </span>
           </span>
         </a>

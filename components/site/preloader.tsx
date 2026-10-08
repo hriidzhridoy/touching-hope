@@ -82,7 +82,7 @@ export function Preloader() {
         <span className="text-sm font-extrabold uppercase tracking-[0.35em] text-sun-400">
           Touching
         </span>
-        <span className="-mt-1 font-script text-5xl text-sand-50">Hope</span>
+        <span className="-mt-1 font-script text-5xl text-sand-50">Hope Cares</span>
       </div>
 
       <div className="relative mt-6 h-14 w-full max-w-xs px-6 text-center">

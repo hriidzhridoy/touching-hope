@@ -1,6 +1,6 @@
-# Touching Hope — Website
+# Touching Hope Cares — Website
 
-A Next.js 14 (App Router) landing page for **Touching Hope**, a nonprofit
+A Next.js 14 (App Router) landing page for **Touching Hope Cares**, a nonprofit
 bringing hope and healing to women and children in Los Cabos, Mexico.
 
 Built with:
@@ -51,7 +51,7 @@ components/
     button.tsx, card.tsx, badge.tsx, input.tsx, separator.tsx
 public/
   images/
-    logo.png              Touching Hope logo (uploaded asset)
+    logo.png              Touching Hope Cares logo (uploaded asset)
     hero-postcard.png       "Bringing Hope & Healing" promo graphic
     el-pescadero.png         "Tocando la Esperanza" El Pescadero graphic
 ```
@@ -72,7 +72,7 @@ public/
 
 Placeholder values that should be updated with real information:
 
-- Footer email address (`hello@touchinghope.org`)
+- Footer email address (`hello@touchinghopecares.com`)
 - Social links (Facebook / Instagram `href="#"`)
 - Newsletter form currently only shows a local success state — wire it up
   to your email provider (Mailchimp, ConvertKit, etc.) or an API route.
