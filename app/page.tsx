@@ -7,11 +7,13 @@ import { Videos } from "@/components/site/videos";
 import { GetInvolved } from "@/components/site/get-involved";
 import { Newsletter } from "@/components/site/newsletter";
 import { Footer } from "@/components/site/footer";
+import { Preloader } from "@/components/site/preloader";
 import { DonateDialog } from "@/components/site/donate-dialog";
 
 export default function Home() {
   return (
     <main className="overflow-x-hidden">
+      <Preloader />
       <Navbar />
       <Hero />
       <Vision />
